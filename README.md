@@ -158,4 +158,4 @@ MIT - Siéntete libre de usar esta plantilla para tus proyectos.
 
 ---
 
-Built with ❤️ by Developer
+Built with ❤️ by Erik Valle

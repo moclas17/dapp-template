@@ -17,7 +17,7 @@ export default function Footer() {
       <Container maxW="container.xl">
         <Box textAlign="center">
           <Text fontSize={{ base: 'sm', md: 'md' }} fontWeight="medium" mb={2}>
-            Built with ❤️ by Developer
+            Built with ❤️ by Erik Valle
           </Text>
 
           <HStack
